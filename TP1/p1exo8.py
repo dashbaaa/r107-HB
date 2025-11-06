@@ -9,3 +9,4 @@ ValueError: int() base must be >= 2 and <= 36, or 0
 >>> nombre = random.randint(0,100)
 >>> print(f"le nombre généré est : {nombre}. ")
 le nombre généré est : 39. 
+...
