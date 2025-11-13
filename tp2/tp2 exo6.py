@@ -6,8 +6,7 @@ nb = random.randint(0, 100)
 
 print(f"Nombre généré : {nb}")
 
-
 if nb < 50:
-print("Pile !")
+    print("Pile !")
 else:
-print("Face !")
+    print("Face !")
